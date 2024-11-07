@@ -9,6 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
+  ### I jumped the gun with updating these creds, will it still work? ###
   DOCKER_IMAGE_NAME: axlecrime-azure-ttt
   AZURE_WEBAPP_NAME: axlecrime-ttt-app
   ###############################################
